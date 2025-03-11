@@ -14047,6 +14047,10 @@ select {
     }
 }
 
+#canvas {
+    width: 100% !important;
+}
+
 .quiz-img {
     width: 100%;
     object-fit: cover;
@@ -14055,6 +14059,8 @@ select {
 .form-block {
     margin: 0 auto;
 }
+
+
 
 .quiz-content .question-wrapper {
     visibility: visible;
